@@ -7,10 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * @auther zzyy
- * @create 2023-12-26 22:26
- */
 @RestController
 public class PayCircuitController
 {
